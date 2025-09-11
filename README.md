@@ -1,6 +1,6 @@
 # AWS VPC Basic Infrastructure Project
 
-![Architecture Overview](documentation/architecture/Architecture1.PNG)
+![Architecture Overview](documentation/architecture/Architecture.jpg)
 
 ## 🎯 Project Overview
 
@@ -107,8 +107,8 @@ Complete visual documentation of the build process:
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/ghazi-irfan/
+- Email: Ghaziirfan4@gmail.com
 
 ---
 
