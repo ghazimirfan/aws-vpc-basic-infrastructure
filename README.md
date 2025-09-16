@@ -1,6 +1,6 @@
 # AWS VPC Basic Infrastructure Project
 
-![Architecture Overview](documentation/architecture/Architecture.jpg)
+![Architecture Overview](documentation/architecture/FinalDiagram.jpg)
 
 ## 🎯 Project Overview
 
